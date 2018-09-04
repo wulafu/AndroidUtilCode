@@ -20,7 +20,7 @@ import com.blankj.utilcode.util.ScreenUtils;
  */
 public abstract class BaseActivity extends AppCompatActivity
         implements IBaseView {
-
+//fdfdfd
     protected View     mContentView;
     protected Activity mActivity;
 
